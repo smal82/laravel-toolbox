@@ -58,6 +58,7 @@ php artisan serve
 ```bash
 git clone https://github.com/smal82/laravel-toolbox.git
 cd laravel-toolbox
+sudo apt install -y php-gd
 composer install
 npm install && npm run dev
 cp .env.example .env
