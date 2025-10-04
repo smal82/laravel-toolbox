@@ -30,7 +30,7 @@ Benvenuto in **Laravel Toolbox**, una suite di strumenti utili sviluppata con La
 ### 💻 Windows
 
 ```bash
-git clone https://github.com/tuo-utente/laravel-toolbox.git
+git clone https://github.com/smal82/laravel-toolbox.git
 cd laravel-toolbox
 composer install
 npm install && npm run dev
@@ -43,7 +43,7 @@ php artisan serve
 ### 🍎 macOS
 
 ```bash
-git clone https://github.com/tuo-utente/laravel-toolbox.git
+git clone https://github.com/smal82/laravel-toolbox.git
 cd laravel-toolbox
 composer install
 npm install && npm run dev
@@ -56,7 +56,7 @@ php artisan serve
 ### 🐧 Linux
 
 ```bash
-git clone https://github.com/tuo-utente/laravel-toolbox.git
+git clone https://github.com/smal82/laravel-toolbox.git
 cd laravel-toolbox
 composer install
 npm install && npm run dev
